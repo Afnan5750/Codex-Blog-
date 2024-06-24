@@ -1,0 +1,33 @@
+[
+    {
+      "title": "How to write good code?",
+      "image": "src/assets/card-image.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique bibendum. Donec rutrum sed sem quis venenatis."
+    },
+    {
+      "title": "How to learn React?",
+      "image": "src/assets/card-image-2.jpg",
+      "content": "Proin ac orci vel dui rhoncus dignissim. Integer urna felis, pellentesque quis tempus eu, cursus eu metus."
+    },
+    {
+      "title": "What is Geeks Help?",
+      "image": "src/assets/card-image-3.jpg",
+      "content": "Fusce interdum libero id libero volutpat tincidunt. Quisque ultricies rutrum sapien, non eleifend arcu gravida sed."
+    },
+    {
+      "title": "How 3 screen works?",
+      "image": "src/assets/card-image-4.jpg",
+      "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer posuere, risus a condimentum gravida, nisi ligula."
+    },
+    {
+      "title": "Marketing",
+      "image": "src/assets/blog1.jpg",
+      "content": "Aliquam erat volutpat. Curabitur venenatis nisi vel magna ultricies pellentesque. Nullam vitae purus sit amet nisi feugiat vulputate."
+    },
+    {
+      "title": "Hacking",
+      "image": "src/assets/blog6.jpg",
+      "content": "Donec mollis felis a diam scelerisque, ut scelerisque justo efficitur. Nulla nec metus ut nisi bibendum varius."
+    }
+  ]
+  
